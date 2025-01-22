@@ -1,5 +1,5 @@
 Bank Account Management System
-A comprehensive bank account management system that provides functionalities to create accounts, retrieve details, deposit and withdraw money, and close accounts. Built using modern Java technologies and RESTful principles.
+A comprehensive bank account management system that provides functionalities to create accounts, retrieve details, deposit and withdraw money, and close accounts. Built using modern Java technologies(SpringBoot) and RESTful principles.
 
 Features:
 Create new bank accounts with user details.
